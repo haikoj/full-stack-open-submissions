@@ -9,4 +9,4 @@ sequenceDiagram
     server-->>browser: HTTP 201 Created 
     deactivate server
 
-    Note right of the browser: No redirect
+    Note right of browser: No redirect
